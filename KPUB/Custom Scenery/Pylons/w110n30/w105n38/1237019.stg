@@ -1,0 +1,14 @@
+# pylons_w110n30_w105n38_1237011
+# do not edit below this line
+# Last Written Fri Jul 23 08:26:53 2021
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -104.22851 38.37659 1501.73 108.089
+# END pylons_w110n30_w105n38_1237011
+# pylons_w110n30_w105n38_1237019
+# do not edit below this line
+# Last Written Fri Jul 23 08:29:19 2021
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -104.22851 38.37659 1501.73 107.876
+OBJECT_BUILDING_MESH_DETAILED w110n30_w105n38_1237019c00.ac -104.22709 38.39302 0.00 90
+OBJECT_BUILDING_MESH_DETAILED w110n30_w105n38_1237019c01.ac -104.22709 38.42905 0.00 90
+# END pylons_w110n30_w105n38_1237019

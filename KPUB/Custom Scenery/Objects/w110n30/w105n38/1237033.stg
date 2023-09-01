@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Airport/ndb.ac -104.716334 38.694302 1700.74 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -104.721667 38.719722 1605.71 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -104.7175 38.630556 1538.16 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -104.581889 38.728306 1680.2 180
+OBJECT_SHARED Models/Airport/marker.ac -104.716333 38.694311 1700.75 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -104.706111 38.633333 1309.46 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.701686 38.630256 1665 290.28
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.701502 38.629867 1664.3 290.28
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.701042 38.628895 1662.82 290.28
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.699306 38.625222 1660.69 290.84
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.630221 38.728604 1752.56 230.24
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.628058 38.635963 1677.24 270.44
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.625525 38.733008 1751.87 230.25
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.618164 38.739914 1756.92 230.74
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.609145 38.748671 1773.93 250.16

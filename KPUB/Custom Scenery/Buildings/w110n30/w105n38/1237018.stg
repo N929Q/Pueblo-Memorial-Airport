@@ -1,0 +1,7 @@
+# osm2city_w110n30_w105n38_1237018
+# do not edit below this line
+# Last Written Fri Jul 23 08:29:07 2021
+#
+BUILDING_LIST w110n30_w105n38_1237018_buildings_shader.txt OSMBuildings -104.37500 38.43750 1526.77
+OBJECT_BUILDING_MESH_ROUGH w110n30_w105n38_1237018b141.ac -104.29383 38.42905 0.00 0
+# END osm2city_w110n30_w105n38_1237018
